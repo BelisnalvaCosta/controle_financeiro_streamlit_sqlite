@@ -2,6 +2,8 @@
 
 Aplicativo web simples para controle financeiro pessoal usando Streamlit e SQLite.[^1]
 
+<img width="1912" height="837" alt="controle-financeiro-streamlit" src="https://github.com/user-attachments/assets/0e7aba4b-2ee0-4d35-b9a7-119fb887f8a0" />
+
 ## 🚀 Funcionalidades
 - Controle de despesas fixas e variáveis
 - Configuração de saldo e renda mensal
