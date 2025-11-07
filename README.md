@@ -1,6 +1,6 @@
 # Controle Financeiro com Streamlit
 
-Aplicativo web simples para controle financeiro pessoal usando Streamlit e SQLite.
+Aplicativo web simples para controle financeiro pessoal usando Streamlit e SQLite.[^1]
 
 ## 🚀 Funcionalidades
 - Controle de despesas fixas e variáveis
@@ -47,3 +47,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para de
 
 ## 👩‍💻 Contribuição
 Contribuições são bem-vindas! Faça um fork e envie seu Pull Request.
+
+[^1]: Projeto pessoal - fictício, pondo em prática a linguagem Python.
